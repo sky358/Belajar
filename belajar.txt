@@ -1,4 +1,9 @@
 Lists that I want to learn :
+Computer Science :
 - Web developing
 - Machine Learning
 - Electrical
+
+Language :
+- English
+- Korean
